@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Karaboga </h1>
 <h3 align="center">I like coffee ☕ </h3>
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif"/width="800" height="400"> 
   <!--<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="800" height="400">-->
 </p>
 
