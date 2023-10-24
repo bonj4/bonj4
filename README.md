@@ -29,5 +29,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/> </a>
 </div><br>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bonj4&theme=radical&show_icons=true" alt="bonj4" display="block"></p><br>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonj4&layout=compact&theme=tokyonight" alt="bonj4" display="block"/></p>
+<div align="center">
+  <img width ="45%" src="https://github-readme-stats.vercel.app/api?username=bonj4&theme=radical&show_icons=true" alt="bonj4" display="block"><br>
+  <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonj4&layout=compact&theme=tokyonight" alt="bonj4" display="block"/></p>-->
+  <img width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemgul&theme=radical" alt="bonj4"/>
+</div>
