@@ -32,5 +32,5 @@
 <div align="center">
   <img width ="45%" src="https://github-readme-stats.vercel.app/api?username=bonj4&theme=radical&show_icons=true" alt="bonj4" display="block"><br>
   <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonj4&layout=compact&theme=tokyonight" alt="bonj4" display="block"/></p>-->
-  <img width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemgul&theme=radical" alt="bonj4"/>
+  <img width ="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=bonj4&theme=radical" alt="bonj4"/>
 </div>
