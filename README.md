@@ -2,7 +2,6 @@
 <h3 align="center">I like coffee ☕ </h3>
 <p align="center">
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif"/width="800" height="400"> 
-  <!--<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="800" height="400">-->
 </p>
 
 - 🌱 I’m currently learning **SFM and Visual Slam**, **Genetic AI Algorithms**, **C++**
