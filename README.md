@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Karaboga </h1>
 <h3 align="center">I like coffee ☕ </h3>
 <p align="center">
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif"/width="800" height="400"> 
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif"/width="800" height="400">
+  <br>
+ <br>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=bonj4&label=Profile%20Views&color=11&icon=1&pretty=true" />
+</a>
 </p>
 
 - 🌱 I’m currently learning **SFM and Visual Slam**, **Genetic AI Algorithms**, **C++**
