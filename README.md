@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SFM and Visual Slam**, **Genetic AI Algorithms**, **C++**
 - 💬 Ask me about **C++, Python,  Machine Learning, Deep Learning and Computer Vision**
-- 📫 How to reach me: **omerfarukkaraboga@gmail.com**
+- 📫 How to reach me: **[farukaraboga.com](https://farukaraboga.com/)**
 
 <h2 align="center">🛠️ Languages and FrameWorks</h2>
 <div align="center">
