@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Karaboga </h1>
-<h3 align="center">I like coffee ☕ </h3>
 <p align="center">
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif"/width="800" height="400">
   <br>
  <br>
   <a href="https://visitcount.itsvg.in">
